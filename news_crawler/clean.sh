@@ -1,0 +1,1 @@
+rm -f tmp*; rm -f alpari*; rm -f stamp.txt; rm -f logs*;

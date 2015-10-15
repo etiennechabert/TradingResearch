@@ -1,0 +1,1 @@
+cd /home/crowler; php index.php
